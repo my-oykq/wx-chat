@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "home/home",
+    "compntents/my-prop/my-prop"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

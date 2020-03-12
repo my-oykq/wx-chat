@@ -1,0 +1,6 @@
+<!--components/my-propety/my-propety.wxml-->
+<text>components/my-propety/my-propety.wxml</text>
+<!-- 模板动态使用 -->
+<view class="title titlclass">{{title}}</view>
+<view class="content">{{title}}</view>
+

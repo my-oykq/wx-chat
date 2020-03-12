@@ -1,0 +1,2 @@
+<!--components/my-event/my-event.wxml-->
+<view bindtap="incrementClick">组件内部的计数：{{counter}}</view>
